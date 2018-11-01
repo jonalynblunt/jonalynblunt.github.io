@@ -1,0 +1,14 @@
+img {
+	width: 10%;
+	float: left;
+	margin: 1.66%;
+	margin-top: 0%;
+}
+
+p {
+	font-family: 'Tenor Sans', sans-serif;
+	font-size: 38px;
+	text-transform: uppercase;
+	border-bottom: 1px solid black;
+	margin-left: 1.66%;
+}
