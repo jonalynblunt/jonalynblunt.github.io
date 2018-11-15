@@ -1,8 +1,13 @@
+.portfolio {
+	width: 50%;
+	margin: 0 auto
+}
+
 img {
-	width: 10%;
-	float: left;
-	margin: 1.66%;
-	margin-top: 0%;
+	width: 20%;
+	/*max-width: 300px;*/
+	/*float: left;*/
+	margin: 4%;
 }
 
 p {
