@@ -1,13 +1,15 @@
 .portfolio {
-	width: 50%;
-	margin: 0 auto
+	width: 60%;
+	margin: 0 auto;
+
 }
 
 img {
 	width: 20%;
-	/*max-width: 300px;*/
+	/*min-width: 250px;*/
+	max-width: 300px;
 	/*float: left;*/
-	margin: 4%;
+	margin: 2em;
 }
 
 p {
