@@ -5,3 +5,8 @@ p {
 	border-bottom: 1px solid black;
 	margin-left: 1.66%;
 }
+
+.flex {
+	display: flex;
+  	flex-wrap: wrap;
+}
