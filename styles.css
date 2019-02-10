@@ -10,3 +10,53 @@ p {
 	display: flex;
   	flex-wrap: wrap;
 }
+
+
+
+/*img {
+	object-fit: cover;
+}*/
+
+/*.thumbnail {
+	display: block;
+    max-width: 100%;
+    max-height: 250px;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+	/*display: block;
+    max-width: 100%;
+    max-height: 250px;
+    position: relative;
+    overflow: hidden;
+
+}/*
+
+/*.thumbnail>img {
+	
+	display: block;
+    max-width: 100%;
+    max-height: 250px;
+	
+	position: relative;
+	 width: 250px;
+	 height: 250px;
+ 	 overflow: hidden;*/
+
+}
+
+/*  .thumbnail img {
+  	position: absolute;
+  	left: 50%;
+ 	top: 50%;
+ 	height: 100%;
+  	width: auto;
+ 	 -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+
+.thumbnail img.portrait {
+		width: 100%;
+  		height: auto;
+}*/
